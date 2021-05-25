@@ -20,4 +20,4 @@ https://github.com/Olovyannikov/project-window-js
 2. Clone or download this project
 3. Open in terminal and `npm i` or 'yarn' for install dependencies
 4. Wait for it...
-5. `localhost:3000`
+5. `localhost:4000`
